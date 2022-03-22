@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo2.png
+logo:                  /assets/img/logo3.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -359,10 +359,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <arda> <hurbas>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/<hurbas_arda>
+#     - https://github.com/<dogpool>
 
 
 # Plugin Configs
