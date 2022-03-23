@@ -4,7 +4,7 @@ title: Near Fiefdom
 image: 
   path: /assets/img/blog/newnew.png
 description: >
-  MMO Blockchain Play to Earn real time strategy game. Worked as a team for Encode Club x Near Protool Hackathon, final prototype did not meet submission criteria, project is in limbo. Tasks done for and/or with team: Unity Tilemap development & design, Unity UI design, in-game Unity NFT & Cryptocurrency marketplace for any EVM Chain. 
+  MMO Blockchain Play to Earn real time strategy game. Worked as a team for Encode Club x Near Protool Hackathon, final prototype did not meet submission criteria, project is in limbo. Tasks done for and/or with team: Unity Tilemap development & design, Unity UI design, in-game Unity NFT & Token marketplace, making Smart Contracts upgradable, Tokenomics & In-Game Economy Design, Play to Earn game design, Website Content, Freelancer/contractor hiring facilitation, roadmap creation, ICO planning, earnings and financials estimations and financing.
 sitemap: false
 ---
 
