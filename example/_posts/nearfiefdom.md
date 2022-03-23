@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Introducing Hydejack 9
+title: Near Fiefdom
 image: 
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+  path: /assets/img/blog/newnew.png
 description: >
-  Version 9 is the most complete version of Hydejack yet.
-  Modernized design, big headlines, and big new features.
+  MMO Blockchain Play to Earn real time strategy game. Worked as a team for Encode Club x Near Protool Hackathon, final prototype did not meet submission criteria, project is in limbo. Tasks done for and/or with team: Unity Tilemap development & design, Unity UI design, in-game Unity NFT & Cryptocurrency marketplace for any EVM Chain. 
 sitemap: false
 ---
 
-Version 9 is the most complete version of Hydejack yet.
+Tokenomics design.
 {:.lead}
 
 [Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
